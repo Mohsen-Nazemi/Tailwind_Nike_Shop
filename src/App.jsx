@@ -1,7 +1,13 @@
-export default function App() {
-  return (
-    <h1 className="text-lg font-bold">
-      سلام دنیا!
-    </h1>
-  )
-}
+import Nav from './components/Nav'
+
+
+const App = () => (
+  <main className="relative">
+    <Nav />    
+   {/* <section>
+    hero
+   </section> */}
+  </main>
+);
+
+export default App;
