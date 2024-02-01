@@ -1,8 +1,8 @@
-# React + Vite
+# Tailwind Nike Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot-(450)](https://github.com/Mohsen-Nazemi/Tailwind_Nike_Shop/assets/81500583/fcc8ee1f-e31b-4ed3-96f2-7485d03d699f)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- clone project
+- go to project folder and run `npm i`
+- `npm run dev`
